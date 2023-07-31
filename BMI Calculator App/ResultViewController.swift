@@ -28,13 +28,13 @@ class ResultViewController: UIViewController {
     func checkCondition(totalBMI:Float){
         if totalBMI < 18.5 {
             adviceLabel.text = "Please eat more"
-            view.backgroundColor = UIColor.systemTeal
+            view.backgroundColor = UIColor(named: "halfBlue")
         } else if totalBMI <= 24.9{
             adviceLabel.text = "Congratulations! You are as fit as a model"
-            view.backgroundColor = UIColor.systemMint
+            view.backgroundColor = UIColor(named: "halfGreen")
         }else if totalBMI > 25.0{
             adviceLabel.text = "Please stop overeating, Start exercise"
-            view.backgroundColor = UIColor.systemCyan
+            view.backgroundColor = UIColor(named: "halfRed")
         }
     }
     
