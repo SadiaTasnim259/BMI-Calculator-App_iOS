@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		047ADC242A776E1500B97828 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047ADC232A776E1500B97828 /* UIView+Extension.swift */; };
+		047ADC262A777D8B00B97828 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047ADC252A777D8B00B97828 /* ResultViewController.swift */; };
 		049395742A76B5780082B424 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049395732A76B5780082B424 /* AppDelegate.swift */; };
 		049395762A76B5780082B424 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049395752A76B5780082B424 /* SceneDelegate.swift */; };
 		049395782A76B5780082B424 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049395772A76B5780082B424 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		047ADC232A776E1500B97828 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		047ADC252A777D8B00B97828 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		049395702A76B5780082B424 /* BMI Calculator App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMI Calculator App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		049395732A76B5780082B424 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		049395752A76B5780082B424 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				049395752A76B5780082B424 /* SceneDelegate.swift */,
 				047ADC232A776E1500B97828 /* UIView+Extension.swift */,
 				049395772A76B5780082B424 /* ViewController.swift */,
+				047ADC252A777D8B00B97828 /* ResultViewController.swift */,
 				049395792A76B5780082B424 /* Main.storyboard */,
 				0493957C2A76B57B0082B424 /* Assets.xcassets */,
 				0493957E2A76B57B0082B424 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				047ADC262A777D8B00B97828 /* ResultViewController.swift in Sources */,
 				049395782A76B5780082B424 /* ViewController.swift in Sources */,
 				049395742A76B5780082B424 /* AppDelegate.swift in Sources */,
 				047ADC242A776E1500B97828 /* UIView+Extension.swift in Sources */,
