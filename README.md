@@ -1,1 +1,1 @@
-# BMI-Calculator-App_iOS
+# BMI Calculator
