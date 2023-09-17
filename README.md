@@ -8,8 +8,8 @@
 
 | App Walkthrough | Home Screen | Perfect BMI Screen |
 | --- | --- | --- |
-| <p align="center"><img src="" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/All User.png" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/Create User.png" height="450"/></p> |
+| <p align="center"><img src="Screenshots and App Walkthrough/BMICalculator.gif" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/Home Screen.png" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/PerfectBMIScreen.png" height="450"/></p> |
 
 | High BMI Screen | Low BMI Screen |
 | --- | --- |
-| <p align="center"><img src="Screenshots and App Walkthrough/Searched User.png" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/Update User.png" height="450"/></p> |
+| <p align="center"><img src="Screenshots and App Walkthrough/HighBMIScreen.png" height="450"/></p> | <p align="center"><img src="Screenshots and App Walkthrough/LowBMIScreen.png" height="450"/></p> |
